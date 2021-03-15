@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">My existence is a miracle. / 我存在就是奇迹</string>
+    <string name="affirmation2">I allow emotions to flow freely. / 我允许情绪自在流动</string>
+    <string name="affirmation3">There is no danger in the moment, I am full of strength. / 当下没有危险，我充满力量</string>
+    <string name="affirmation4">I love and am loved. / 我爱着，也被爱着</string>
+    <string name="affirmation5">I am willing to reveal my truth. / 我愿意袒露真实</string>
+    <string name="affirmation6">Inspiration comes to me, I do not have to expect it. / 灵感降临与我，我不必期待</string>
+    <string name="affirmation7">I surrender. / 我臣服</string>
+    <string name="affirmation8">I have the courage to follow my heart.</string>
+    <string name="affirmation9">Things will unfold at precisely the right time.</string>
+    <string name="affirmation10">I will be present in all the moments that this day brings.</string>
+</resources>
