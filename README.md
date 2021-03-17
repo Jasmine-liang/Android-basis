@@ -9,4 +9,4 @@ It help you calculate tips based on the service you get.
 ## Affirmations App
 It lists ten affirmations that you love and displays a scrollable list of texts and images.                        
 ## Word App
-
+Search for a word by its first letter and switch to [Dictionary.com](https://www.dictionary.com/) to look up the meaning of the word.
