@@ -10,3 +10,5 @@ It help you calculate tips based on the service you get.
 It lists ten affirmations that you love and displays a scrollable list of texts and images.                        
 ## Word App
 Search for a word by its first letter and switch to [Dictionary.com](https://www.dictionary.com/) to look up the meaning of the word.
+## Unscramble App
+The game shows ten random scrambled words for the player to unscramble.You can either Skip the word or guess a word and tap Submit. If you guess correctly, the score increases. An incorrect guess shows an error state in the text field. With each new word, the word count also increases.
