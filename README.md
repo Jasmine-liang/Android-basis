@@ -17,7 +17,7 @@ Search for a word by its first letter and switch to [Dictionary.com](https://www
 The order details get displayed on an order summary screen and can be shared to another app to send the order.
 This app demonstrates multiple fragments in an activity, a shared ViewModel across fragments,
 data binding, LiveData, and the Jetpack Navigation component."
-## TrackMySleepQuality
+## TrackMySleepQuality App
 Leanred how to make an item in RecycleView clickable, Room etc
-## MarsRealEstate
+## MarsRealEstate App
 Got hands on Retrofit
