@@ -18,6 +18,6 @@ The order details get displayed on an order summary screen and can be shared to 
 This app demonstrates multiple fragments in an activity, a shared ViewModel across fragments,
 data binding, LiveData, and the Jetpack Navigation component."
 ## TrackMySleepQuality App
-Leanred how to make an item in RecycleView clickable, Room etc
+Learned how to make an item in RecycleView clickable, Room etc
 ## MarsRealEstate App
 Got hands on Retrofit
